@@ -1,0 +1,44 @@
+ENVI
+description = {
+./CCDC_Maps/subset/ChangeMap_subset}
+samples = 436
+lines   = 441
+bands   = 30
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bip
+byte order = 0
+map info = {UTM, 1, 1, 630695.8, 4889798, 30, 30, 13, North,WGS-84}
+coordinate system string = {PROJCS["WGS_1984_UTM_Zone_13N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-105],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]}
+band names = {
+Band 1,
+Band 2,
+Band 3,
+Band 4,
+Band 5,
+Band 6,
+Band 7,
+Band 8,
+Band 9,
+Band 10,
+Band 11,
+Band 12,
+Band 13,
+Band 14,
+Band 15,
+Band 16,
+Band 17,
+Band 18,
+Band 19,
+Band 20,
+Band 21,
+Band 22,
+Band 23,
+Band 24,
+Band 25,
+Band 26,
+Band 27,
+Band 28,
+Band 29,
+Band 30}
